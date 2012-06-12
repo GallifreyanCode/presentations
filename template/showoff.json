@@ -1,0 +1,12 @@
+{
+  "name": "Java 7",
+  "description": "All about Java 7",
+  "author": "Kim Kerger",
+  "templates" : {
+	"special" : "simple.tpl"
+    },
+  "pause_msg": "Paused !!!",
+  "sections": [
+    {"section":"01 - intro"}
+  ]
+}
