@@ -1,0 +1,24 @@
+.content {
+  color: black;
+  font-family: Helvetica;
+}
+.subsection h1 {
+    background: rgb(162, 181, 205);
+    color: rgb(39, 64, 139);
+	padding: .25em;
+}
+
+h1 {
+	color: rgb(39, 64, 139);
+	font-family: Helvetica;
+}
+h2{
+	color: rgb(28, 134, 238);
+	font-family: Helvetica;
+}
+.content::after {
+  position: absolute;
+  right: 10px;
+  bottom: 25px;
+  content: url(template/footer.jpg);
+}
