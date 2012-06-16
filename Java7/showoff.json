@@ -1,16 +1,16 @@
 {
   "name": "Java 7",
   "description": "All about Java 7",
-  "author": "Kim Kerger",
+  "author": "GallifreyanCode",
   "templates" : {
 	"special" : "simple.tpl"
     },
   "pause_msg": "Paused !!!",
   "sections": [
-    {"section":"01 - intro"},
-    {"section":"02 - language-platform"},
-    {"section":"03 - project-coint"},
-    {"section":"04 - nio"},
+	{"section":"01 - intro"},
+	{"section":"02 - language-platform"},
+	{"section":"03 - project-coint"},
+	{"section":"04 - nio"},
 	{"section":"05 - new-concurrency"},
 	{"section":"06 - future"},
 	{"section":"07 - end"}
